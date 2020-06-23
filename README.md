@@ -19,6 +19,7 @@ Then launch the crnn.ipynb by:
 
 The demo reads an example image and recognizes its text content.
 Example image:
+
 ![Example Image](./data/r0.jpg)
 
 Example image:
