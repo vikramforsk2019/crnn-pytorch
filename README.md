@@ -22,7 +22,7 @@ Example image:
 
 ![Example Image](./data/r0.jpg)
 Expected output:
-loading image path ./data/r0.jpg
+
 loading pretrained model from ./data/crnn.pth
 n---a-m-e-y-o-u-w--a-ntt-- => nameyouwant   
 Example image:
