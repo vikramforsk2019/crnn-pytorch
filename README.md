@@ -4,19 +4,18 @@ Convolutional Recurrent Neural Network
 This software implements the Convolutional Recurrent Neural Network (CRNN) in pytorch.
 Origin software could be found in [crnn](https://github.com/bgshih/crnn)
 
-Run demo
+Run crnn.ipynb
 --------
 A demo program can be found in ``demo.py``. Before running the demo, download a pretrained model
 from [Baidu Netdisk](https://pan.baidu.com/s/1pLbeCND) or [Dropbox](https://www.dropbox.com/s/dboqjk20qjkpta3/crnn.pth?dl=0). 
 This pretrained model is converted from auther offered one by ``tool``.
 Put the downloaded model file ``crnn.pth`` into directory ``data/``. 
-
 you have to upload on google drive.so you can use Multicloud to upload file fast
 https://www.multcloud.com/
 
-Then launch the demo by:
+Then launch the crnn.ipynb by:
 
-    python demo.py
+   on colab run the crnn.ipynb
 
 The demo reads an example image and recognizes its text content.
 
