@@ -18,6 +18,8 @@ Then launch the crnn.ipynb by:
    on colab run the crnn.ipynb
 
 The demo reads an example image and recognizes its text content.
+Example image:
+![Example Image](./data/demo.png)
 
 Example image:
 ![Example Image](./data/demo.png)
